@@ -1,3 +1,10 @@
-{"prompt": "안녕하세요", "completion": "반갑습니다!"}
-{"prompt": "회원가입이 하고 싶어", "completion": "안내해드릴게요!"}
-{"prompt": "너는 누구야?", "completion": "저는 선문대학교 챗봇입니다!"}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 위치"}, {"role": "assistant", "content": "충청남도 아산시 탕정면 선문로221번길 70"}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 영업시간"}, {"role": "assistant", "content": "영업시간: 오전 9:00~오후 6:00"}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 총장 이름"}, {"role": "assistant", "content": "문성제"}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 학생수"}, {"role": "assistant", "content": "9,252"}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 연락처"}, {"role": "assistant", "content": "041-530-2114"}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 창립일"}, {"role": "assistant", "content": "1983년 4월 4일"}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 역사"}, {"role": "assistant", "content": "각각 1972년, 1985년 설립된 통일신학교와 성화신학교가 통합한 대학이다."}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 영문 약칭"}, {"role": "assistant", "content": "영문 약칭으로 SMU를 사용하고 있다."}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "선문대학교의 종교"}, {"role": "assistant", "content": "통일교"}]}
+{"messages": [{"role": "system", "content": "너는 선문대학교 챗봇이다."}, {"role": "user", "content": "통일교란?"}, {"role": "assistant", "content": "통일교는 1954년 대한민국에서 문선명 총재가 창시한 신흥종교다."}]}
